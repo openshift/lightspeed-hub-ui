@@ -24,6 +24,7 @@ AI agents. Content is optimized for precision and machine consumption.
 | Understand the system | `what/system-overview.md` |
 | Understand spoke management UI | `what/spoke-management.md` |
 | Understand fleet dashboard | `what/fleet-dashboard.md` |
+| Understand how multicluster is tested | `what/multicluster-testing.md` |
 
 ## Conventions
 
